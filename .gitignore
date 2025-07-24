@@ -1,3 +1,5 @@
 /dist/
 /imap-scrub
 /*.yml
+/result
+/.direnv
